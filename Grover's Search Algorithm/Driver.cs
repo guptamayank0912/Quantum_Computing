@@ -15,6 +15,7 @@ namespace Microsoft.Quantum.Samples.SimpleGrover
 
             Console.WriteLine("\n\nPress any key to continue...\n\n");
             Console.ReadKey();
+
         }
     }
 }
