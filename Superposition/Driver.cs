@@ -20,7 +20,7 @@ namespace Quantum.Superposition
                     }
                 }
             }
-            Console.WriteLine("Collapsed STATES: ");
+            Console.WriteLine("Collapsed STATES:");
             Console.WriteLine($"\t One: {ones}");
             Console.WriteLine($"\t Zero: {1000- ones}");
             Console.ReadKey();
