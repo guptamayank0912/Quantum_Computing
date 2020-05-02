@@ -22,6 +22,7 @@ namespace Quantum.Entanglement
                     if (qubitTwo == qubitOne)
                     { 
                         equal++;
+
                     }
                 }
             }
